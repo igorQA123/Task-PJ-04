@@ -2,7 +2,7 @@ class Settings:
     chrome_driver = "C:\skillfactory\chromedriver-win64\chromedriver.exe"
     base_url = 'https://b2c.passport.rt.ru'
     valid_email = 'igorpetrenko62@gmail.com'
-    valid_password = 'werty123'
+    valid_password = 'Werty123!ry'
     valid_email_for_reg = 'igorpetrenko62@gmail.com'
     invalid_email = 'wrrostelek@gmail.com'
     invalid_password = 'dfgri321'
